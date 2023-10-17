@@ -146,4 +146,7 @@ header ul li a{
     header li{
         display: inline-block;
     }
+    .hero{
+        text-align: center;
+    }
 }
