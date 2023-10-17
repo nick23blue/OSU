@@ -149,4 +149,9 @@ header ul li a{
     .hero{
         text-align: center;
     }
+    .pics img{
+        width: 200px;
+    height: 100px;
+    left: 45%;
+    }
 }
