@@ -150,8 +150,8 @@ header ul li a{
         text-align: center;
     }
     .pics img{
-        width: 200px;
-    height: 100px;
+        width: 100px;
+    height: 50px;
     left: 45%;
     }
 }
