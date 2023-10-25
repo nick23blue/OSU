@@ -151,9 +151,7 @@ and (-webkit-device-pixel-ratio:3){
     .hero{
         text-align: center;
     }
-    .pics img{
-        width: 24px;
-    height: 12px;
-    left: 45%;
+    .rivals img{
+        width: 428px
     }
 }
