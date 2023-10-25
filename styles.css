@@ -144,12 +144,15 @@ and (device-height:844px)
 and (-webkit-device-pixel-ratio:3){
     header{
         align-items: center;
+        width:428px;
     }
     header li{
         display: inline-block;
+        font-size:6px;
     }
     .hero{
         text-align: center;
+        width:428px
     }
     .rivals img{
         width: 428px
