@@ -152,9 +152,12 @@ and (-webkit-device-pixel-ratio:3){
     }
     .hero{
         text-align: center;
-        width:428px
+        width:428px;
     }
-    .rivals img{
-        width: 428px
+    .rivals {
+        width: 428px'
     }
+    .pics{
+        width:30%;
+    }  
 }
