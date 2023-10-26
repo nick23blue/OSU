@@ -140,8 +140,8 @@ header ul li a{
 }
 
 @media only screen and(device-width:428px)
-and (device-height:844px) 
-and (-webkit-device-pixel-ratio:3){
+and (device-height:926px) 
+{
     header{
         align-items: center;
         width:428px;
